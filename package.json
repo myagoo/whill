@@ -1,0 +1,25 @@
+{
+  "name": "whill",
+  "version": "1.0.0",
+  "description": "A library based on D3 to make wheel based interactions",
+  "main": "src/will.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myagoo/whill.git"
+  },
+  "author": "Benjamin Millagou <millagou.benjamin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myagoo/whill/issues"
+  },
+  "homepage": "https://github.com/myagoo/whill",
+  "peerDependencies": {
+      "d3": "^3.5.5",
+  },
+  "devDependencies": {
+    "webpack": "^1.6.0"
+  }
+}
